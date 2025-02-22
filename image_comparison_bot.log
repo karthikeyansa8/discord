@@ -1,0 +1,94 @@
+2024-10-26 11:15:53,311 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-10-26 11:15:53,323 - INFO - logging in using static token
+2024-10-26 11:15:56,349 - INFO - Shard ID None has connected to Gateway (Session ID: 3e89acc3d2f8a8246bf512670917b935).
+2024-10-26 11:15:58,358 - INFO - LB Python Testing Bot#7288 has connected to Discord!
+2024-10-26 11:16:27,825 - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "imagecompare" is not found
+2024-10-26 11:22:37,829 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-10-26 11:22:37,837 - INFO - logging in using static token
+2024-10-26 11:22:40,350 - INFO - Shard ID None has connected to Gateway (Session ID: 00b02a13ccb0f08ac31a8093c5a47714).
+2024-10-26 11:22:42,351 - INFO - LB Python Testing Bot#7288 has connected to Discord!
+2024-10-26 11:22:56,759 - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "imagecompare" is not found
+2024-10-26 11:24:28,581 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-10-26 11:24:28,597 - INFO - logging in using static token
+2024-10-26 11:24:30,940 - INFO - Shard ID None has connected to Gateway (Session ID: 3af22a07d03942add25666fad6d39b58).
+2024-10-26 11:24:32,993 - INFO - LB Python Testing Bot#7288 has connected to Discord!
+2024-10-26 11:24:33,813 - INFO - Slash commands synced with Discord.
+2024-10-26 11:24:44,992 - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "imagecompare" is not found
+2024-10-26 11:28:41,648 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-10-26 11:28:41,648 - INFO - logging in using static token
+2024-10-26 11:28:43,736 - INFO - Shard ID None has connected to Gateway (Session ID: 0d97f6fe2c6aebdcc92142bb0528db84).
+2024-10-26 11:28:45,755 - INFO - LB Bot#1592 has connected to Discord!
+2024-10-26 11:28:46,549 - INFO - Slash commands synced with Discord.
+2024-10-26 11:29:24,529 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-10-26 11:29:24,529 - INFO - logging in using static token
+2024-10-26 11:29:26,809 - INFO - Shard ID None has connected to Gateway (Session ID: aa3cd493d59591f2b180027e9b4f5006).
+2024-10-26 11:30:25,743 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-10-26 11:30:25,743 - INFO - logging in using static token
+2024-10-26 11:30:28,140 - INFO - Shard ID None has connected to Gateway (Session ID: fbed3591af21cbd086b6069adb9317c4).
+2024-10-26 11:30:30,143 - INFO - LB Python Testing Bot#7288 has connected to Discord!
+2024-10-26 11:30:30,696 - INFO - Slash commands synced with Discord.
+2024-10-26 11:30:41,761 - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "imagecompare" is not found
+2024-10-26 11:32:31,743 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-10-26 11:32:31,743 - INFO - logging in using static token
+2024-10-26 11:32:34,093 - INFO - Shard ID None has connected to Gateway (Session ID: 68725fd7cd055048211b81503d92e4ee).
+2024-10-26 11:32:36,099 - INFO - LB Python Testing Bot#7288 has connected to Discord!
+2024-10-26 11:32:36,857 - INFO - Slash commands synced with Discord.
+2024-10-26 11:32:48,902 - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "imagecompare" is not found
+2024-10-26 11:34:38,944 - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "sync" is not found
+2024-10-26 11:38:00,621 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-10-26 11:38:00,621 - INFO - logging in using static token
+2024-10-26 11:38:03,007 - INFO - Shard ID None has connected to Gateway (Session ID: 52fe1ee5998a21b2876ea848e392053b).
+2024-10-26 11:38:05,021 - INFO - LB Python Testing Bot#7288 has connected to Discord!
+2024-10-26 11:38:06,181 - INFO - Slash commands synced with Discord.
+2024-10-26 11:40:03,729 - INFO - Waiting for user to upload images for comparison.
+2024-10-26 11:41:21,097 - INFO - Waiting for user to upload images for comparison.
+2024-10-26 11:41:33,639 - INFO - Image comparison process started...
+2024-10-26 11:41:42,461 - INFO - Image comparison completed and results sent to Discord.
+2024-10-26 11:49:29,093 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-10-26 11:49:29,093 - INFO - logging in using static token
+2024-10-26 11:49:32,881 - INFO - Shard ID None has connected to Gateway (Session ID: 70fa4fd6fe25a3f9259abfcf4de8734e).
+2024-10-26 11:49:34,886 - INFO - LB Python Testing Bot#7288 has connected to Discord!
+2024-10-26 11:49:47,619 - INFO - Waiting for user to upload images for comparison.
+2024-10-26 11:50:06,650 - INFO - Image comparison process started...
+2024-10-26 11:50:15,582 - INFO - Image comparison completed and results sent to Discord.
+2024-10-26 12:02:55,875 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-10-26 12:02:55,876 - INFO - logging in using static token
+2024-10-26 12:02:58,357 - INFO - Shard ID None has connected to Gateway (Session ID: 94d80a21f268dee17f2923bb586442eb).
+2024-10-26 12:03:00,364 - INFO - LB Python Testing Bot#7288 has connected to Discord!
+2024-10-26 12:03:12,562 - INFO - Waiting for user to upload images for comparison.
+2024-10-26 12:05:18,141 - INFO - Waiting for user to upload images for comparison.
+2024-10-26 12:05:30,343 - INFO - Image comparison process started...
+2024-10-26 12:05:38,716 - INFO - Image comparison completed and results sent to Discord.
+2024-10-26 12:12:32,713 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-10-26 12:12:32,713 - INFO - logging in using static token
+2024-10-26 12:12:35,493 - INFO - Shard ID None has connected to Gateway (Session ID: b3613711eabfe992e55b178a3b919f23).
+2024-10-26 12:12:37,506 - INFO - LB Python Testing Bot#7288 has connected to Discord!
+2024-10-26 12:12:49,520 - INFO - Waiting for user to upload images for comparison.
+2024-10-26 12:13:14,317 - INFO - Image comparison process started...
+2024-10-26 12:13:23,009 - INFO - Image comparison completed and results sent to Discord.
+2024-10-26 12:14:27,801 - INFO - Waiting for user to upload images for comparison.
+2024-10-26 12:14:44,856 - INFO - Image comparison process started...
+2024-10-26 12:14:56,399 - INFO - Image comparison completed and results sent to Discord.
+2024-10-26 12:23:03,949 - INFO - Waiting for user to upload images for comparison.
+2024-10-26 12:23:55,144 - INFO - Image comparison process started...
+2024-10-26 12:24:06,479 - INFO - Image comparison completed and results sent to Discord.
+2024-10-26 14:35:03,710 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-10-26 14:35:03,725 - INFO - logging in using static token
+2024-10-26 14:35:06,373 - INFO - Shard ID None has connected to Gateway (Session ID: d78669a8e2881b1af2b6e02bf7871fc3).
+2024-10-26 14:35:08,378 - INFO - LB Python Testing Bot#7288 has connected to Discord!
+2024-10-26 14:35:14,918 - INFO - Waiting for user to upload images for comparison.
+2024-10-26 14:35:27,427 - INFO - Image comparison process started...
+2024-10-26 14:35:41,159 - INFO - Image comparison completed and results sent to Discord.
+2025-01-25 09:29:04,062 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-01-25 09:29:04,097 - INFO - logging in using static token
+2025-01-25 09:29:06,490 - INFO - Shard ID None has connected to Gateway (Session ID: 69835e04ba0a9ad25afaac04daa80c22).
+2025-01-25 09:29:08,527 - INFO - LB Python Testing Bot#7288 has connected to Discord!
+2025-01-25 09:29:20,634 - INFO - Waiting for user to upload images for comparison.
+2025-01-25 09:29:39,437 - INFO - Image comparison process started...
+2025-01-25 09:29:52,677 - INFO - Image comparison completed and results sent to Discord.

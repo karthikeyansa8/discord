@@ -1,0 +1,10 @@
+.venv
+**.pyc
+**.pdf
+**.tex
+**.tex
+**.log
+**.png
+**.jpg
+**.jpeg
+**.csv
